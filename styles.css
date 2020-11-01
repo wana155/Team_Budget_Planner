@@ -1,0 +1,27 @@
+#main{background-color:rgb(186, 186, 186);
+    font-family: serif;}
+    
+
+.navbarro{color:  rgb(186, 186, 186);
+    font-size: 35px ;
+    text-align: center;
+    background-color:rgb(1, 103, 1);
+    }
+    .navbarro a:hover {
+    background-color:rgb(87, 185, 87);
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    }
+    
+    .navbarro a.active  {
+        background-color:rgb(2, 232, 52);
+        color:rgb(255, 255, 255);
+        text-decoration: none;
+        }
+    
+    .pestanas{text-align: center;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;}
